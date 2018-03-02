@@ -1,5 +1,5 @@
 class Author
-  attr_accessor :name, :posts
+  attr_accessor :name, :posts, :author
   @@post_count = []
   
   
@@ -25,6 +25,6 @@ class Author
   end
   
   def author_name
-    
+     
   end
 end
