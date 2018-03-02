@@ -4,4 +4,8 @@ class Author
   def initialize(name)
      @posts = []    
   end
+  
+  def add_post
+    
+  end
 end
