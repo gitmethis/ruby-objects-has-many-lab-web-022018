@@ -9,5 +9,6 @@ class Post
     if @author == nil
        return nil  
     end
+    @author
   end
 end
