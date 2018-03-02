@@ -6,6 +6,6 @@ class Author
   end
   
   def add_post(post)
-    
+     
   end
 end
