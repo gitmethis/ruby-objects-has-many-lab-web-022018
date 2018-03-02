@@ -25,6 +25,6 @@ class Author
   end
   
   def author_name
-     
+     @author_name
   end
 end
