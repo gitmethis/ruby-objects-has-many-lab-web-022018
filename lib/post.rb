@@ -6,7 +6,7 @@ class Post
   end
   
   def author_name
-    if @author.name == nil
+    if self.author.name == nil
       return nil  
     end
     @author.name
