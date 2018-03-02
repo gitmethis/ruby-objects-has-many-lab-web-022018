@@ -9,6 +9,6 @@ class Post
     if @author== nil
       return nil  
     end
-   @author_name.name
+   @author.name
   end
 end
