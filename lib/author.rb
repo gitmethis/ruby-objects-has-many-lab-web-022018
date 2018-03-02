@@ -24,5 +24,7 @@ class Author
      @@post_count.length
   end
   
-  
+  def author_name
+    
+  end
 end
